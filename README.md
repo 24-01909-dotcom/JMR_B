@@ -172,14 +172,10 @@ ANSWER: yes
 5) Save & Exit
 
 👤 Author
+GRECIA, JAMES BENEDICT P.
+PANALIGAN, MICHAELA C.
+REBENQUE, RHONE PAULENE P.
 
-<div align="center">
-
-<b>IT-2108:</b><br>
-GRECIA, JAMES BENEDICT P.<br>
-PANALIGAN, MICHAELA C.<br>
-REBENQUE, RHONE PAULENE P.<br>
-</div>
 Java OOP Project – Freedom Wall System
 
 📜 License
