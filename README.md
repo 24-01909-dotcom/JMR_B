@@ -33,8 +33,11 @@ REBENQUE, RHONE PAULENE P.<br>
     <img src="https://img.shields.io/badge/📜_Sample_Output-efcb9f?style=for-the-badge">
   </a>
   <a href="#-author--acknowledgement">
+
+    
 ---
-## 📖 Overview
+
+##📖 Overview
 
 **PAHINA’T GUNITA (Freedom Wall App) is a Java-based console application that allows users to anonymously express their thoughts through:
 - **Letters
