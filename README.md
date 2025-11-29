@@ -171,11 +171,6 @@ ANSWER: yes
 4) Delete a Post (admin)
 5) Save & Exit
 
-👤 Author
-GRECIA, JAMES BENEDICT P.
-PANALIGAN, MICHAELA C.
-REBENQUE, RHONE PAULENE P.
-
 Java OOP Project – Freedom Wall System
 
 📜 License
